@@ -5,14 +5,13 @@ Install JDK and [sbt].
 
 Download Scaje:
 
-    git clone https://github.com/davips/scaje
+    git clone https://github.com/davips/scalapyje
 
 Setup and activate a python virtual environment and
 install jep:
     
     python3.7 -m venv venv
     source venv/bin/activate
-    pip install jep
     pip install -e ~/git/automl-paje/
     
 Test the installation running the demo.
