@@ -10,8 +10,8 @@ object Main extends App {
     val sys = py.module("sys")
     println("version " + sys.version + "<<<<<<")
     
-    val toy = py.module("examples.automl.toy")
-    println(toy.A.main())   //List("mozilla4.arff"))
+    val toy = py.module("examples.a.b")
+    println(b.A.main())   //List("mozilla4.arff"))
 
     println("path " + os.path.dirname(sys.executable))
 }
