@@ -1,11 +1,9 @@
-# scaje (scalapyje for now)
-
 ### Installation
 Install JDK and [sbt].
 
 Download Scaje:
 
-    git clone https://github.com/davips/scalapyje
+    git clone https://github.com/davips/scapyml
 
 Setup and activate a python virtual environment and
 install jep:
